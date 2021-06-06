@@ -1,16 +1,16 @@
 # Simple Calories Counter on Android
 
-This application is used manage the calories by monitoring of the calories of food you eat and how you workout. 
+This application is used manage the calories by monitoring of the calories of food you eat and how you workout. User can enter the exercises he has done and the foods he has eaten through out the day. On this basis, the app shows the amount of calories consumed and the amount of calories used. User can also see the calorie record of previous days. 
+
+
+# Installation and Execution
+
 Run the project on android studio. All dependencies have already been added to the gradle files.
 
+
+## Screens 
+
 It consists of screens which are self explanatory. A person enters his profile(current height, weight etc) and gets the optimal calorie intake according to his bmi. 
-
-User can enter the exercises he has done and the foods he has eaten through out the day. On this basis, the app shows the amount of calories consumed and the amount of calories used. 
-
-User can also see the calorie record of previous days. 
-
-
-RUNNING SCREENS:
 
 ### Menu
 
